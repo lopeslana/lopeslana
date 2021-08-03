@@ -28,7 +28,7 @@
 </br>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/gabizinha12/gabizinha12/master/assets/python.png"></code>
-<code><img height="25" src="https://lh3.googleusercontent.com/proxy/gYzpukj6NWoFMmuaADFgzwps106G_L8qVJicP7ZH964O3mZXIpMg7RyF0_kd7Iv6fw12oJGSZP7GPypkyoHzJYZXQHPrtzESxkfZC8g7D97SmNFYqEUInnln2Kf-hQ"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/480/mongodb.png"></code>
