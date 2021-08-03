@@ -6,7 +6,7 @@
 
 
 </br>                                                                                                                           
-💬 Ask me about code,conspirancy theorys and code. Let's talk 
+💬 Ask me about conspirancy theorys and code. Let's talk 
 </br>
 😄 Pronouns: she/her
 </br>
