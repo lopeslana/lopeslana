@@ -11,7 +11,7 @@
 😄 Pronouns: she/her
 </br>
 ⚡ Fun fact: Movies/series addicted
-
+</br>
 </br>
 💻 I'm learning:
 </br>
@@ -21,6 +21,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://www.blogson.com.br/wp-content/uploads/2020/12/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png"></code>
+</br>
 </br>
 💻 I want to learn
 </br>
