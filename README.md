@@ -4,17 +4,16 @@
   <br />
   <img src="https://komarev.com/ghpvc/?username=lopeslana" alt="lopeslana" /></h1>
 
-<br />
+<a href="https://www.linkedin.com/in/lopeslana/" target="_blank">
+  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="20px"  alt=" LinkedIn />
+</a>
+                                                                                                                           <br />
 💬 Ask me about code,conspirancy theorys and code. Let's talk 
 <br />
 😄 Pronouns: she/her
 <br />
 ⚡ Fun fact: Movies/series addicted
 <br />
-📩 You can reach me here:
-<a href="https://www.linkedin.com/in/lopeslana/" target="_blank">
-  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="20px"  alt=" LinkedIn />
-</a>
 
 < br/>
 // 💻 Minha stack atual é:
