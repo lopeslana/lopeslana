@@ -1,15 +1,15 @@
 
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-  </br>I'm Lana! </h1>
-<center> <img src="https://komarev.com/ghpvc/?username=lopeslana" alt="lopeslana" /> </p></center>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
+  </br>I'm Lana!
+  <img src="https://komarev.com/ghpvc/?username=lopeslana" alt="lopeslana" /></h1>
 
-
-
-<br />
 <br />
 💬 Ask me about code,conspirancy theorys and code. Let's talk 
+<br />
 😄 Pronouns: she/her
+<br />
 ⚡ Fun fact: Movies/series addicted
+<br />
 📫 You can reach me here:
 <a href="https://www.linkedin.com/in/lopeslana/" target="_blank">
   <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt=" LinkedIn" align="left" />
