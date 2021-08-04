@@ -3,9 +3,7 @@
   </br>I'm Lana!
   <br />
   <img src="https://komarev.com/ghpvc/?username=lopeslana" alt="lopeslana" /></h1>
-<a href="https://www.linkedin.com/in/lopeslana/" target="_blank">
-  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt=" LinkedIn" align="left" />
-</a>
+
 
 </br>                                                                                                                           
 💬 Ask me about conspirancy theorys and code. Let's talk 
@@ -14,6 +12,9 @@
 </br>
 ⚡ Fun fact: Movies/series addicted
 </br>
+📩 You can reach me here:<a href="https://www.linkedin.com/in/lopeslana/" target="_blank">
+  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt=" LinkedIn" align="left" />
+</a>
 </br>
 💻 I'm learning:
 </br>
